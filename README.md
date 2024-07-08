@@ -19,7 +19,7 @@ Steps Overview :
 
 Dashboard Content :                                                                                                                                                                                           
    1) Key Performance Indicators (KPIs) :                                                                                                                                                                     
-      • Total Employees: Total number of employees currently in the organization.                                                                                                                             
+      • Total Employees:     Total number of employees currently in the organization.                                                                                                                         
       • Employees Attrition Rate: Percentage of employees who have left the organization.                                                                                                                    
       • Total Active Employees: Number of employees currently active and employed.                                                                                                                          
       • Average Age: Average age of employees in the organization.
