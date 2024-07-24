@@ -46,7 +46,8 @@ Dashboard Content :
                   ii) Generally higher attrition for males across age groups.
 
                                              
-      • Attrition by Gender: Analysis of attrition trends based on gender diversity.                                                                                         i) Male: 312                                                                                                                              
+      • Attrition by Gender: Analysis of attrition trends based on gender diversity.                                                                        
+      i) Male: 312                                                                                                                              
 ii) Female: 180                                                                                                                                          
                               
       • Attrition by Department: Insights into attrition rates across various departments.
