@@ -50,13 +50,22 @@ Dashboard Content :
       i) Male: 312                                                                                                                              
 ii) Female: 180                                                                                                                                          
                               
-      • Attrition by Department: Insights into attrition rates across various departments.
-i) Sales: 282 (largest segment)                                                                                                                            
+      • Attrition by Department: Insights into attrition rates across various departments.                                                                  
+i) Sales: 282 (largest segment)                                                                                                                             
 ii) R&D: 186                                                                                                                                                 
 iii) HR: 24 (smallest segment)                                                                                                                          
 
+      • Attrition by Business Travels (Pie Chart):                                                                                                            
+          i) Travel_Rarely: Largest segment                                                                                                                
+          ii) Travel_Frequently: Second largest                                                                                                        
+          iii) Non_Travel: Smallest segment
 
-        
+       • Attrition by Employees Education (Bar Chart):                                                                                                      
+           Highest attrition:                                                                                                                              
+          i) Bachelor's Degree: 204                                                                                                                      
+          ii) Master's Degree: 120                                                                                                                      
+          iii) Associate's Degree: 93                                                                                                                                                                                                                              
+     
    5) Filters :                                                                                                                                                                                 
       • Gender Filter : Filter data to analyze attrition trends by gender (Female, Male).                                                                                                                                          
       • Department Filter : Filter data by department(HR, R&D, Sales) to understand attrition patterns in specific organizational units.                                                                                                    
